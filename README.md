@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <a href="https://github.com/Magendran001/my-portfolio">
+  <a href="https://github.com/rajaprhub?tab=repositories">
         <img src="src/Assets/img/Myimg.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -91,7 +91,7 @@ Follow these steps to get a local copy up and running.
 
 ## Usage :mag:
 
-:round_pushpin:<a href="https://magendran-portfolio-001.netlify.app/">View Live Demo Here!</a>
+:round_pushpin:<a href="https://github.com/rajaprhub">View Live Demo Here!</a>
 <br/>
 [![Portfolio gif][portfolio-gif]](src/Assets/img/gif.gif)
 
