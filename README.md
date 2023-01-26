@@ -76,7 +76,7 @@ Follow these steps to get a local copy up and running.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Magendran001/my-portfolio
+   git clone https://github.com/rajaprhub
    ```
 2. Install NPM packages
    ```sh
