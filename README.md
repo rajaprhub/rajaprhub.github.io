@@ -12,7 +12,7 @@
     Personal website showcasing my skills and latest projects!    
     <br />
     <br />
-    :round_pushpin:<a href="https://magendran-portfolio-001.netlify.app/">View Demo</a>
+    :round_pushpin:<a href="https://github.com/rajaprhub/rajaprhub.github.io">View Demo</a>
   </p>
 </p>
 
