@@ -91,7 +91,6 @@ const ProjectContainer = ({ solo }) => {
 
 
 
-
     return (
         <div>
             {/* <div> {solo ? <h1>Solo project mobile responsive</h1> : <h1>Group project</h1>}</div> */}
