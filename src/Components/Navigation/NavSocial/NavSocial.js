@@ -47,7 +47,7 @@ const NavSocial = ({ socialClass, socialIcons }) => {
             </li>
             <li className={`${styles[socialClass]}`}>
                 <a
-                    href="tel:+919398451030"
+                    href="tel:+919989882720"
                     className="socialIcons"
                     target="_blank"
                     rel="noreferrer noopener"
