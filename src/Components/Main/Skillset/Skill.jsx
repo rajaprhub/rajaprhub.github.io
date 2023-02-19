@@ -36,30 +36,30 @@ export const Skillset=()=>{
               <FaReact />
               <h5>React</h5>
             </div>
-            <div>
+            {/* <div>
               <FaNodeJs />
               <h5>Nodejs</h5>
-            </div>
-            <div>
+            </div> */}
+            {/* <div>
               <DiMongodb />
               <h5>MongoDb</h5>
-            </div>
+            </div> */}
             <div>
               <SiRedux />
               <h5>Redux</h5>
             </div>
-            <div>
+            {/* <div>
               <SiExpress />
               <h5>Express</h5>
-            </div>
+            </div> */}
             <div>
               <SiChakraui />
               <h5>Chakra ui</h5>
             </div>
-            <div>
+            {/* <div>
               <SiMaterialui />
               <h5>Material Ui</h5>
-            </div>
+            </div> */}
             {/* <div>
               <BsBootstrap />
               <h5>Bootstrap</h5>
