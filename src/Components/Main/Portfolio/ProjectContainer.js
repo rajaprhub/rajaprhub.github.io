@@ -4,6 +4,7 @@ import { ThemeContext } from "../../../context/ThemeContext";
 import tatamgclone from "../../../Assets/img/Portfolio items/tatamghome.PNG"
 import Cricinfoclone from "../../../Assets/img/Portfolio items/Cricinfoimg.PNG"
 import Sephoraclone from "../../../Assets/img/Portfolio items/SephoraClone.PNG"
+import moviebookapp from "../../../Assets/img/Portfolio items/moviebookapp.PNG"
 
 import ProjectItem from "./ProjectItem";
 
@@ -31,6 +32,30 @@ const ProjectContainer = ({ solo }) => {
             tech: [html, css, js,react],
         },
 
+      {
+            image: [Sephoraclone, Sephoraclone],
+            alt: "Sephora Clone clone",
+            heading: "Sephora clone",
+            p1: "Sephora clone to see demo",
+            l1: "https://github.com/rajaprhub/sephorawebs",
+            a1: "Github page for a project.",
+            l2: "https://sephoraclonewebs.netlify.app/",
+            a2: "Tatamg clone",
+            tech: [html, css, js],
+        },
+        
+        {
+            image: [moviebookapp, moviebookapp],
+            alt: "movieBooking clone",
+            heading: "Cricinfo clone",
+            p1: "Cricinfo clone to see demo",
+            l1: "https://github.com/rajaprhub/javascript201/tree/main/MOVIE%20BOOKINGCE3",
+            a1: "Github page for a project.",
+            l2: "https://cosmic-pavlova-b1534c.netlify.app/",
+            a2: "Movie Book App",
+            tech: [html, css, js],
+        },
+
         {
             image: [Cricinfoclone, Cricinfoclone],
             alt: "Tata mg Clone clone",
@@ -41,21 +66,8 @@ const ProjectContainer = ({ solo }) => {
             l2: "https://comforting-granita-9e8464.netlify.app/",
             a2: "Tatamg clone",
             tech: [html, css, js],
-        },
-
-        
-        {
-            image: [Sephoraclone, Sephoraclone],
-            alt: "Sephora Clone clone",
-            heading: "Sephora clone",
-            p1: "Sephora clone to see demo",
-            l1: "https://github.com/rajaprhub/sephorawebs",
-            a1: "Github page for a project.",
-            l2: "https://sephoraclonewebs.netlify.app/",
-            a2: "Tatamg clone",
-            tech: [html, css, js],
         }
-        
+
         
         
 
