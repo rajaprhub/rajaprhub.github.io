@@ -24,7 +24,7 @@ const ProjectContainer = ({ solo }) => {
             image: [tatamgclone, tatamgclone],
             alt: "Tata mg Clone clone",
             heading: "Tatamg clone",
-            p1: "Tatamg clone to see demo",
+            p1: "Tatamg clone for live  demo",
             l1: "https://github.com/rajaprhub/aspiremgApp",
             a1: "Github page for a project.",
             l2: "https://aspiretatamgcare.netlify.app/",
@@ -36,7 +36,7 @@ const ProjectContainer = ({ solo }) => {
             image: [Sephoraclone, Sephoraclone],
             alt: "Sephora Clone clone",
             heading: "Sephora clone",
-            p1: "Sephora clone to see demo",
+            p1: "Sephora clone for live demo",
             l1: "https://github.com/rajaprhub/sephorawebs",
             a1: "Github page for a project.",
             l2: "https://sephoraclonewebs.netlify.app/",
@@ -47,8 +47,8 @@ const ProjectContainer = ({ solo }) => {
         {
             image: [moviebookapp, moviebookapp],
             alt: "movieBooking clone",
-            heading: "Cricinfo clone",
-            p1: "Cricinfo clone to see demo",
+            heading: "MovieBooking App",
+            p1: "Movie Book App to see demo",
             l1: "https://github.com/rajaprhub/javascript201/tree/main/MOVIE%20BOOKINGCE3",
             a1: "Github page for a project.",
             l2: "https://cosmic-pavlova-b1534c.netlify.app/",
@@ -60,7 +60,7 @@ const ProjectContainer = ({ solo }) => {
             image: [Cricinfoclone, Cricinfoclone],
             alt: "Tata mg Clone clone",
             heading: "Cricinfo clone",
-            p1: "Cricinfo clone to see demo",
+            p1: "Cricinfo clone for live  demo",
             l1: "https://github.com/rajaprhub/cricinfoweb",
             a1: "Github page for a project.",
             l2: "https://comforting-granita-9e8464.netlify.app/",
@@ -74,32 +74,10 @@ const ProjectContainer = ({ solo }) => {
         
     ];
 
-    // const soloproject = [
-    //     {
-    //         image: [Blogpage, Blogpage],
-    //         alt: "Blog_web_react",
-    //         heading: "Blog_web_clone_react",
-    //         p1: "Here we have tried to optimize the previous project cloning of Bewakoof by adding backend to it and some more functionality in the frontend.",
-    //         l1: "https://github.com/Magendran001/blogfrontend",
-    //         a1: "Github page for a project.",
-    //         l2: "https://leafy-douhua-366ea1.netlify.app/",
-    //         a2: "Blog_web_clone_react",
-    //         tech: [html, css, js, expressjs, nodejs, react],
-    //     },
-    //     {
-    //         image: [bewakoofmobile, bewakoofmobile],
-    //         alt: "Bewakoof_web_clone_react",
-    //         heading: "Bewakoof_web_clone_react",
-    //         p1: "Here we have tried to optimize the previous project cloning of Bewakoof by adding backend to it and some more functionality in the frontend.",
-    //         l1: "https://github.com/Magendran001/bewakoof_react",
-    //         a1: "Github page for a project.",
-    //         l2: "https://bewakoofmaggi.netlify.app/",
-    //         a2: "Bewakoof_web_clone_react",
-    //         tech: [html, css, js, expressjs, nodejs, react],
-    //     }
+    const soloproject = [
+       
 
-
-    // ];
+    ];
 
 
 
