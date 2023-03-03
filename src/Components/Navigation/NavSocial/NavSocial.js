@@ -58,11 +58,12 @@ const NavSocial = ({ socialClass, socialIcons }) => {
             </li>
             <li className={`${styles[socialClass]}`}>
                 <a
-                    href="https://drive.google.com/file/d/13WfLj6cZWduWdyXp5BEaFOyq7KC-JDFV/view?usp=share_link"
+                    href="https://drive.google.com/file/d/19dXZUEachTQdBJKxh0ZpuNbVuzh4u1-N/view?usp=share_link"
                     className="socialIcons"
                     target="_blank"
                     rel="noreferrer"
                     aria-label="My Linkedin resume"
+                    download
                 >
                     <FontAwesomeIcon icon="file" className={`${styles[socialIcons]}`} />
                 </a>
